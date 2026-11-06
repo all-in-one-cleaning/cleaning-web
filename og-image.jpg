@@ -1,0 +1,330 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>All In One Cleaning | Carpet & Upholstery Cleaning in National City, CA</title>
+<meta name="description" content="Owner-operated carpet steam cleaning ($40 per room), upholstery, mattress cleaning, steam pressure washing and mobile car wash in National City, CA. Cleaning carpets since 1990. Call (619) 408-4562.">
+<link rel="canonical" href="https://all-in-one-cleaning.github.io/web/">
+<meta name="robots" content="index, follow">
+<meta name="theme-color" content="#14254a">
+<meta name="format-detection" content="telephone=yes">
+
+<!-- Vista previa en WhatsApp, Facebook, iMessage, LinkedIn -->
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="All In One Cleaning">
+<meta property="og:title" content="All In One Cleaning | Carpet & Upholstery Cleaning in National City">
+<meta property="og:description" content="Owner operated since 1990. Carpet steam clean $40 per room. 5.0 on Google. Call (619) 408-4562.">
+<meta property="og:url" content="https://all-in-one-cleaning.github.io/web/">
+<meta property="og:image" content="https://all-in-one-cleaning.github.io/web/og-image.jpg">
+<meta property="og:image:secure_url" content="https://all-in-one-cleaning.github.io/web/og-image.jpg">
+<meta property="og:image:type" content="image/jpeg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="The All In One Cleaning van in front of the National City mural.">
+<meta property="og:locale" content="en_US">
+
+<!-- Vista previa en X / Twitter -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="All In One Cleaning | Carpet & Upholstery Cleaning in National City">
+<meta name="twitter:description" content="Owner operated since 1990. Carpet steam clean $40 per room. Call (619) 408-4562.">
+<meta name="twitter:image" content="https://all-in-one-cleaning.github.io/web/og-image.jpg">
+<meta name="twitter:image:alt" content="The All In One Cleaning van in front of the National City mural.">
+
+<!-- Iconos -->
+<link rel="icon" href="favicon.ico" sizes="any">
+<link rel="icon" type="image/png" sizes="32x32" href="favicon-32.png">
+<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+<meta name="apple-mobile-web-app-title" content="All In One">
+
+<!-- Datos del negocio para Google (solo informacion confirmada) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "All In One Cleaning",
+  "description": "Owner-operated carpet steam cleaning, upholstery and mattress cleaning, steam pressure washing and mobile car wash. Cleaning carpets since 1990.",
+  "url": "https://all-in-one-cleaning.github.io/web/",
+  "logo": "https://all-in-one-cleaning.github.io/web/icon-512.png",
+  "image": "https://all-in-one-cleaning.github.io/web/og-image.jpg",
+  "telephone": "+1-619-408-4562",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "National City",
+    "addressRegion": "CA",
+    "addressCountry": "US"
+  },
+  "areaServed": "National City, CA",
+  "makesOffer": [
+    {"@type":"Offer","itemOffered":{"@type":"Service","name":"Carpet steam cleaning"},"price":"40.00","priceCurrency":"USD","description":"Per room"},
+    {"@type":"Offer","itemOffered":{"@type":"Service","name":"Mobile vehicle car wash"},"price":"60.00","priceCurrency":"USD"},
+    {"@type":"Offer","itemOffered":{"@type":"Service","name":"Upholstery and mattress cleaning"}},
+    {"@type":"Offer","itemOffered":{"@type":"Service","name":"Steam pressure washing"}}
+  ]
+}
+</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=Figtree:wght@400;500;600&display=swap">
+<style>
+/* Layout: full-bleed navy hero with the real van, then a price "rate card" lifted from the van's lettering, story, reviews, call band. */
+:root{
+  --navy:#14254a; --navy-2:#1d3466; --red:#c8202f; --red-dark:#a11724;
+  --paper:#f7f8fb; --ink:#14203a; --muted:#56607a; --line:#dde2ec; --card:#ffffff;
+  --display:"Bricolage Grotesque", "Arial Black", system-ui, sans-serif;
+  --body:"Figtree", system-ui, -apple-system, "Segoe UI", sans-serif;
+  color-scheme:light;
+}
+@media (prefers-color-scheme: dark){
+  :root{ --paper:#0e1526; --ink:#e8ecf5; --muted:#9aa5bf; --line:#253150; --card:#151f36; color-scheme:dark; }
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:var(--paper);color:var(--ink);font:400 17px/1.6 var(--body);-webkit-font-smoothing:antialiased}
+img{max-width:100%;display:block}
+a{color:inherit}
+.wrap{max-width:1080px;margin:0 auto;padding-left:max(20px, env(safe-area-inset-left,0px));padding-right:max(20px, env(safe-area-inset-right,0px))}
+h1,h2,h3{font-family:var(--display);line-height:1.05;margin:0;text-wrap:balance;letter-spacing:-.01em}
+.eyebrow{font:600 13px/1 var(--body);letter-spacing:.14em;text-transform:uppercase;color:var(--red)}
+.btn{display:inline-flex;align-items:center;gap:10px;padding:15px 24px;border-radius:999px;font:600 17px/1 var(--body);text-decoration:none;transition:transform .15s, background .15s}
+.btn:hover{transform:translateY(-1px)}
+.btn:focus-visible{outline:3px solid #fff;outline-offset:3px}
+.btn-red{background:var(--red);color:#fff}
+.btn-red:hover{background:var(--red-dark)}
+.btn-ghost{border:2px solid rgba(255,255,255,.45);color:#fff}
+.btn svg{width:18px;height:18px}
+
+/* top bar */
+.bar{background:var(--navy);color:#fff}
+.bar .wrap{display:flex;justify-content:space-between;align-items:center;gap:16px;padding-block:14px}
+.brand{display:flex;align-items:center;gap:10px;font:800 20px/1 var(--display);text-decoration:none}
+.brand .star{color:var(--red)}
+.bar a.tel{font-weight:600;text-decoration:none;white-space:nowrap}
+
+/* hero */
+.hero{background:var(--navy);color:#fff;position:relative;overflow:hidden}
+.hero::after{content:"";position:absolute;inset:auto 0 0 0;height:8px;background:repeating-linear-gradient(90deg,var(--red) 0 40px,#fff 40px 80px)}
+.hero .wrap{display:grid;grid-template-columns:1.1fr .9fr;gap:48px;align-items:center;padding-block:56px 72px}
+.hero h1{font-size:clamp(40px,6vw,68px);font-weight:800}
+.hero h1 em{font-style:normal;color:#ff6b74}
+.hero p.lede{font-size:19px;color:#c9d3ea;max-width:34ch;margin:20px 0 28px}
+.cta-row{display:flex;flex-wrap:wrap;gap:12px}
+.since{display:flex;gap:28px;margin-top:36px;flex-wrap:wrap}
+.since div{border-left:3px solid var(--red);padding-left:12px}
+.since b{display:block;font:800 30px/1 var(--display)}
+.since span{font-size:14px;color:#aebbd8}
+.van{border-radius:14px;overflow:hidden;box-shadow:0 30px 60px -20px rgba(0,0,0,.6);transform:rotate(1.5deg)}
+.van figcaption{background:#fff;color:var(--navy);font-size:13px;padding:8px 12px;font-weight:600}
+
+/* rate card */
+section{padding-block:80px}
+.head{display:flex;flex-direction:column;gap:12px;margin-bottom:36px;max-width:60ch}
+.head h2{font-size:clamp(30px,4vw,44px)}
+.head p{color:var(--muted);margin:0}
+.rates{background:var(--card);border:1px solid var(--line);border-radius:16px;overflow:hidden}
+.rate{display:grid;grid-template-columns:1fr auto;gap:8px 24px;align-items:baseline;padding:24px 28px;border-top:1px dashed var(--line)}
+.rate:first-child{border-top:0}
+.rate h3{font-size:22px}
+.rate p{grid-column:1/-1;margin:0;color:var(--muted);font-size:15px;max-width:60ch}
+.price{font:800 30px/1 var(--display);color:var(--red);font-variant-numeric:tabular-nums;white-space:nowrap}
+.price small{font:500 14px var(--body);color:var(--muted);margin-left:4px}
+.price.ask{font-size:18px;color:var(--ink)}
+.note{font-size:14px;color:var(--muted);margin-top:14px}
+
+/* story */
+.story{background:var(--card);border-block:1px solid var(--line)}
+.story .wrap{display:grid;grid-template-columns:.8fr 1.2fr;gap:56px;align-items:start}
+.story blockquote{margin:0;font:600 clamp(24px,3vw,32px)/1.25 var(--display);color:var(--navy-2)}
+@media (prefers-color-scheme: dark){.story blockquote{color:#c7d3ff}}
+.story blockquote::before{content:"\201C";display:block;font-size:80px;line-height:.6;color:var(--red)}
+.story cite{display:block;margin-top:16px;font:500 15px var(--body);font-style:normal;color:var(--muted)}
+.story .txt p{margin:0 0 16px;max-width:62ch}
+.promises{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin-top:28px}
+.promises div{border-top:3px solid var(--navy);padding-top:12px;font-size:15px}
+@media (prefers-color-scheme: dark){.promises div{border-color:#5d78c4}}
+.promises b{display:block;font-family:var(--display);font-size:18px;margin-bottom:4px}
+
+/* reviews */
+.stars{color:#f2b31b;letter-spacing:2px;font-size:18px}
+.score{display:flex;align-items:center;gap:12px;font-weight:600}
+.reviews{display:grid;grid-template-columns:repeat(2,1fr);gap:20px}
+.review{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:24px;display:flex;flex-direction:column;gap:12px}
+.review p{margin:0}
+.review footer{margin-top:auto;font-size:14px;color:var(--muted)}
+
+/* areas + call */
+.areas{display:flex;flex-wrap:wrap;gap:10px;margin-top:8px}
+.areas span{border:1px solid var(--line);background:var(--card);border-radius:999px;padding:8px 16px;font-size:15px}
+.call{background:var(--red);color:#fff;text-align:left}
+.call .wrap{display:flex;justify-content:space-between;align-items:center;gap:24px;flex-wrap:wrap;padding-block:56px}
+.call h2{font-size:clamp(28px,4vw,42px)}
+.call .num{font:800 clamp(30px,5vw,48px)/1 var(--display);text-decoration:none;font-variant-numeric:tabular-nums}
+.call p{margin:8px 0 0;color:#ffe1e3}
+footer.site{background:var(--navy);color:#aebbd8;font-size:14px}
+footer.site .wrap{display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap;padding-block:28px}
+
+/* sticky mobile call */
+.fab{display:none}
+@media (max-width:760px){
+  .hero .wrap,.story .wrap{grid-template-columns:1fr;gap:36px}
+  .van{transform:none}
+  .promises,.reviews{grid-template-columns:1fr}
+  .rate{padding:20px}
+  section{padding-block:56px}
+  .bar a.tel{display:none}
+  .fab{display:flex;position:fixed;left:0;right:0;bottom:0;z-index:20;justify-content:center;background:var(--red);color:#fff;font:600 18px var(--body);text-decoration:none;padding:16px max(16px,env(safe-area-inset-right,0px)) calc(16px + env(safe-area-inset-bottom,0px)) max(16px,env(safe-area-inset-left,0px));gap:10px;align-items:center}
+  .fab svg{width:20px;height:20px}
+  body{padding-bottom:64px}
+}
+@media (prefers-reduced-motion: reduce){html{scroll-behavior:auto}.btn{transition:none}}
+</style>
+</head>
+<body>
+
+<header class="bar">
+  <div class="wrap">
+    <a class="brand" href="#top"><span class="star">★</span> All In One Cleaning</a>
+    <a class="tel" href="tel:+16194084562">(619) 408-4562</a>
+  </div>
+</header>
+
+<main id="top">
+  <section class="hero">
+    <div class="wrap">
+      <div>
+        <span class="eyebrow" style="color:#ff8a92">National City, CA · Owner operated</span>
+        <h1 style="margin-top:14px">Carpets that look <em>new again.</em> Cleaned by the owner.</h1>
+        <p class="lede">Carpet steam cleaning, upholstery, mattresses, steam pressure washing and mobile car wash. An owner-operated business with one goal: to provide the best customer service.</p>
+        <div class="cta-row">
+          <a class="btn btn-red" href="tel:+16194084562">
+            <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M6.6 10.8a15.1 15.1 0 0 0 6.6 6.6l2.2-2.2a1 1 0 0 1 1-.25 11.4 11.4 0 0 0 3.6.57 1 1 0 0 1 1 1V20a1 1 0 0 1-1 1A17 17 0 0 1 3 4a1 1 0 0 1 1-1h3.5a1 1 0 0 1 1 1c0 1.25.2 2.45.57 3.6a1 1 0 0 1-.25 1z"/></svg>
+            Call (619) 408-4562
+          </a>
+          <a class="btn btn-ghost" href="#prices">See prices</a>
+        </div>
+        <div class="since">
+          <div><b>1990</b><span>Cleaning carpets since</span></div>
+          <div><b>5.0 ★</b><span>Google rating</span></div>
+          <div><b>$40</b><span>Per room, carpet steam clean</span></div>
+        </div>
+      </div>
+      <figure class="van" style="margin:0">
+        <img src="fotos/van.jpg" alt="The All In One Cleaning van parked in front of the National City mural" width="445" height="359">
+        <figcaption>Look for the van. Owner operated, right here in National City.</figcaption>
+      </figure>
+    </div>
+  </section>
+
+  <section id="prices">
+    <div class="wrap">
+      <div class="head">
+        <span class="eyebrow">What we do</span>
+        <h2>Services &amp; prices</h2>
+        <p>Call for current pricing on any service.</p>
+      </div>
+      <div class="rates">
+        <div class="rate">
+          <h3>Carpet steam cleaning</h3>
+          <div class="price">$40<small>/ room</small></div>
+          
+        </div>
+        <div class="rate">
+          <h3>Upholstery &amp; mattress cleaning</h3>
+          <div class="price ask">Call for quote</div>
+          
+        </div>
+        <div class="rate">
+          <h3>Steam pressure washing</h3>
+          <div class="price ask">Call for quote</div>
+          
+        </div>
+        <div class="rate">
+          <h3>Mobile vehicle car wash</h3>
+          <div class="price">$60</div>
+          
+        </div>
+      </div>
+      
+    </div>
+  </section>
+
+  <section class="story">
+    <div class="wrap">
+      <blockquote>
+        Take pride in what you do! Customers will always call you back and recommend you if you provide them with the best service.
+        <cite>Advice Rod got when he started cleaning carpets in 1990</cite>
+      </blockquote>
+      <div class="txt">
+        <span class="eyebrow">About</span>
+        <h2 style="font-size:clamp(28px,3.5vw,40px);margin:12px 0 20px">Cleaning carpets since 1990</h2>
+        <p>All In One Cleaning is an owner-operated business with one goal in mind: to provide the best customer service.</p><p>Rod's experience dates back to 1990, when he started cleaning carpets. It was his first job right out of high school. Around that time he met an older man who gave him the best advice: take pride in what you do, and customers will always call you back and recommend you.</p>
+        <p>To this day those words stuck with him, and he works every day with one goal in mind: to provide the best customer service out there.</p>
+      </div>
+    </div>
+  </section>
+
+  <section id="reviews">
+    <div class="wrap">
+      <div class="head">
+        <span class="eyebrow">Reviews</span>
+        <h2>What customers say on Google</h2>
+        <div class="score"><span class="stars" aria-label="5 out of 5 stars">★★★★★</span> 5.0 average</div>
+      </div>
+      <div class="reviews">
+        <article class="review">
+          <span class="stars" aria-hidden="true">★★★★★</span>
+          <p>“Rod is amazing. Did an incredibly thorough &amp; beautiful job with our carpet which runs throughout our apartment. We literally never thought it could be this clean, especially since it’s a light tan beige color! And even gave us special pet spray to use for our puppy!”</p>
+          <footer>Google review · Carpet cleaning</footer>
+        </article>
+        <article class="review">
+          <span class="stars" aria-hidden="true">★★★★★</span>
+          <p>“Rod does great work. He has been doing this 20 years and it shows. He cleaned the upholstery on a 10 year old used car I bought and it looks brand new. Rod communicates well, shows up on time and takes great pride in his work.”</p>
+          <footer>Google review · Car upholstery</footer>
+        </article>
+        <article class="review">
+          <span class="stars" aria-hidden="true">★★★★★</span>
+          <p>“Owner operated to ensure only optimum results in every home or business, no cutting corners.”</p>
+          <footer>Google review</footer>
+        </article>
+        <article class="review">
+          <span class="stars" aria-hidden="true">★★★★★</span>
+          <p>“A-MAZING WORK!!! THANK YOU RODRIGO!!!”</p>
+          <footer>Google review</footer>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <section style="padding-top:0">
+    <div class="wrap">
+      <div class="head" style="margin-bottom:16px">
+        <span class="eyebrow">Location</span>
+        <h2 style="font-size:clamp(26px,3vw,34px)">Based in National City, CA</h2>
+      </div>
+    </div>
+  </section>
+
+  <section class="call">
+    <div class="wrap">
+      <div>
+        <h2>Get a price today</h2>
+        <p>Owner operated. Call for pricing and availability.</p>
+      </div>
+      <a class="num" href="tel:+16194084562">(619) 408-4562</a>
+    </div>
+  </section>
+</main>
+
+<footer class="site">
+  <div class="wrap">
+    <span>© 2026 All In One Cleaning · National City, CA</span>
+    <span>Carpet · Upholstery · Mattress · Pressure washing · Mobile car wash</span>
+  </div>
+</footer>
+
+<a class="fab" href="tel:+16194084562">
+  <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M6.6 10.8a15.1 15.1 0 0 0 6.6 6.6l2.2-2.2a1 1 0 0 1 1-.25 11.4 11.4 0 0 0 3.6.57 1 1 0 0 1 1 1V20a1 1 0 0 1-1 1A17 17 0 0 1 3 4a1 1 0 0 1 1-1h3.5a1 1 0 0 1 1 1c0 1.25.2 2.45.57 3.6a1 1 0 0 1-.25 1z"/></svg>
+  Call Rod · (619) 408-4562
+</a>
+</body>
+</html>
